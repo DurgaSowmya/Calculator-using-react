@@ -1,0 +1,23 @@
+button {
+  border: none;
+  background-color: #000b18;
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 0px;
+  outline: none;
+}
+
+button:hover {
+  background-color: rgb(61, 43, 184);
+}
+
+.equals {
+  grid-column: 3 / 5;
+  background-color: #000b18;
+}
+
+.equals:hover {
+  background-color: rgb(228, 39, 15);
+}
